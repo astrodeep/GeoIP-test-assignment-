@@ -10,7 +10,7 @@ Create a GeoIP lookup form with caching in a Highload Block.
 
 ## Installation
 
-1. Copy the component to:
+1. Copy the component to:  - `/local/components/custom`
 2. In the admin panel, create a **Highload Block** with the following settings:
     - **Entity Name (NAME):** `GeoipCache`
     - **Table Name:** `geoip_cache`
